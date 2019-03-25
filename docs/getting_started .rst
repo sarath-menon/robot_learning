@@ -7,6 +7,15 @@
 Some insights in reinforcement learning for mobile robots
 #########################
 
+.. nn_class_docs documentation master file, created by
+   sphinx-quickstart on Fri Aug 17 17:05:47 2018.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+#########################
+Some insights in reinforcement learning for mobile robots
+#########################
+
 Introduction
 ============
 
@@ -25,6 +34,7 @@ Why it matters
 4. Plot the hidden layers as weights effortlessly to visualize how image reocognition models working
 5. Option to display the math to get a idea regarding the theory applied
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Kvn2HmtHDM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Contents
 ========
