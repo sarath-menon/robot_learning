@@ -108,7 +108,7 @@ def main():
             print('Episode {}\tLast length: {:5d}\tAverage length: {:.2f}'.format(
                 i_episode, t, running_reward))
             torch.save(policy, "/home/adept/Documents/saved_model_2.pth")
-        # if running_reward > env.spec.reward_threshold:
+
         if running_reward > 10000:
             print("Solved! Running reward is now {} and "
                   "the last episode runs to {} time steps!".format(running_reward, t))

@@ -33,21 +33,21 @@ Kitchen and Dining World
 No Obstacle World
 ========================
 
-.. image:: path/noobstacle.png
+.. image:: img/Cross_entropy_lossobstacle.png
   :width: 400
   :alt: Alternative text
 
 Static Obstacle World
 ========================
 
-.. image:: path/staticobstacle.jpg
+.. image:: img/static_obstacle.jpg
   :width: 400
   :alt: Alternative text
 
 Dynamic Obstacle World
 ========================
 
-.. image:: path/dynamicobstacle.jpg
+.. image:: img/dynamic_obstacle.jpg
   :width: 400
   :alt: Alternative text
 
@@ -62,4 +62,3 @@ Arguments
 --------------
 
   - world : Any world from the above list. By default, maze_loop_brick world is launched
-  - Plot loss == True : Plots how the loss varies as the network is trained
