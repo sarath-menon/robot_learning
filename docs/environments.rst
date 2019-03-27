@@ -23,7 +23,7 @@ Maze Brick World
   :alt: Alternative text
 
 Kitchen and Dining World
-============
+========================
 
 .. image:: img/kitchen_dining_world.png
   :width: 400
@@ -31,22 +31,35 @@ Kitchen and Dining World
 
 
 No Obstacle World
-============
+========================
 
-.. image:: path/noobstacle.jpg
+.. image:: path/noobstacle.png
   :width: 400
   :alt: Alternative text
 
 Static Obstacle World
-============
+========================
 
 .. image:: path/staticobstacle.jpg
   :width: 400
   :alt: Alternative text
 
 Dynamic Obstacle World
-============
+========================
 
 .. image:: path/dynamicobstacle.jpg
   :width: 400
   :alt: Alternative text
+
+Launching environment with desired environment
+========================
+
+::
+
+   roslaunch diff_wheeled_robot_gazebo diff_wheeled_robot.launch world:=kitchen_dining.world
+
+Arguments
+--------------
+
+  - world : Any world from the above list. By default, maze_loop_brick world is launched
+  - Plot loss == True : Plots how the loss varies as the network is trained
