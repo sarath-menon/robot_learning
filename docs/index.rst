@@ -16,21 +16,20 @@ in a gazebo based simulation environment that I developed myself and then verifi
 available mobile robot platform. I have also created a curated list of interesting experiments regarding
 RL in mobile robots which will surely be beneficial to the reader for reference.
 
-Why it matters
+An Example
 ============
 
-1. A minimalist and intuitive API similar to pytorch and keras
-2. Doesn't confuse the beginner by providing a long list of hyperparameter choices
-3. Compare perfomace of different optimizers easily
-4. Plot the hidden layers as weights effortlessly to visualize how image reocognition models working
-5. Option to display the math to get a idea regarding the theory applied
+.. raw:: html
 
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/dbZTTAcDrP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 Contents
 ========
 
 .. toctree::
    :maxdepth: 2
-   :caption: Getting started
+   :caption: Environments
 
-   Why it exsists <getting_started>
+   Environments <environments>
