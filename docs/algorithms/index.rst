@@ -8,6 +8,6 @@ experiments section
 
 .. toctree::
    :maxdepth: 2
-   :caption: Algorithms
+   :caption: Contents
 
    vanilla_policy_grad
