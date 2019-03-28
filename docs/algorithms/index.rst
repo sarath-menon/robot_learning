@@ -13,4 +13,4 @@ Contents
    :maxdepth: 1
    :caption:
 
-   vanilla_policy_grad
+   algorithms/vanilla_policy_grad
