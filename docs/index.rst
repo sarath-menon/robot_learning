@@ -45,3 +45,4 @@ Contents
    :caption: Algorithms
 
    algorithms/index
+   algorithms/vpg

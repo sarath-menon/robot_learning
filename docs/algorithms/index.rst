@@ -13,4 +13,4 @@ Contents
    :maxdepth: 1
    :caption:
 
-   Vanilla Policy gradient <vpg>
+   vpg
