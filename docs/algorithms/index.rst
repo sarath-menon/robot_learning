@@ -11,4 +11,22 @@ experiments section
    :maxdepth: 1
    :caption:
 
-   Vanilla Policy Gradient <algorithms/vanilla_policy_grad>
+   algorithms/vanilla_policy_grad
+
+.. toctree::
+   :maxdepth: 1
+   :caption:
+
+   vanilla_policy_grad
+
+.. toctree::
+   :maxdepth: 1
+   :caption:
+
+   <algorithms/vanilla_policy_grad>
+
+.. toctree::
+   :maxdepth: 1
+   :caption:
+
+   <vanilla_policy_grad>
