@@ -6,27 +6,9 @@ All standard implementations such as vanilla policy gradients and actor critic h
 case studies of implementations over a range of learning rates and other hyperparameters, refer the
 experiments section
 
-
 .. toctree::
-   :maxdepth: 1
-   :caption:
+   :maxdepth: 2
+   :caption: Algorithms
 
+   algorithms/index
    algorithms/vanilla_policy_grad
-
-.. toctree::
-   :maxdepth: 1
-   :caption:
-
-   vanilla_policy_grad
-
-.. toctree::
-   :maxdepth: 1
-   :caption:
-
-   <algorithms/vanilla_policy_grad>
-
-.. toctree::
-   :maxdepth: 1
-   :caption:
-
-   <vanilla_policy_grad>
