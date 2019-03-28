@@ -13,4 +13,4 @@ Contents
    :maxdepth: 1
    :caption:
 
-   Vanilla Policy Gradient<algorithms/vpg>
+   vanilla_policy_grad
