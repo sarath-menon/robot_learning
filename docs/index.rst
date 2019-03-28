@@ -39,4 +39,3 @@ Contents
    :caption: Algorithms
 
    algorithms/index
-   algorithms/vanilla_policy_grad
