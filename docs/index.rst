@@ -38,4 +38,4 @@ Contents
    :maxdepth: 2
    :caption: Algorithms
 
-   Algorithms <algorithms>
+   algorithms/index

@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 #########################
-Some insights in reinforcement learning for mobile robots
+Algorithms
 #########################
 
 .. nn_class_docs documentation master file, created by
