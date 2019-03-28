@@ -36,6 +36,6 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: Environments
+   :caption: Algorithms
 
    Algorithms <algorithms>
