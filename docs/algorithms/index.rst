@@ -10,5 +10,5 @@ experiments section
    :maxdepth: 2
    :caption: Algorithms
 
-   algorithms/index
-   algorithms/vanilla_policy_grad
+   index
+   vanilla_policy_grad
