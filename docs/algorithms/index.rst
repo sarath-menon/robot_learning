@@ -21,6 +21,6 @@ Contents
 
 .. toctree::
    :maxdepth: 2
-   :caption: 
+   :caption:
 
-   Vanilla Policy Gradient <environments>
+   Vanilla Policy Gradient <vpg>
