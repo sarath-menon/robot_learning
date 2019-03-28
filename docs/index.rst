@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 #########################
-Some insights in reinforcement learning for mobile robots
+How to use
 #########################
 
 Introduction
@@ -39,3 +39,4 @@ Contents
    :caption: Algorithms
 
    algorithms/index
+   algorithms/vanilla_policy_grad
