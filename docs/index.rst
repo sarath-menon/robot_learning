@@ -29,12 +29,6 @@ Contents
 ========
 
 .. toctree::
-   :maxdepth: 0
-   :caption: Home
-
-   index
-
-.. toctree::
    :maxdepth: 2
    :caption: Environments
 
@@ -45,3 +39,4 @@ Contents
    :caption: Algorithms
 
    algorithms/index
+   algorithms/vanilla_policy_grad
