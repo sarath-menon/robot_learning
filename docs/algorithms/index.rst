@@ -11,4 +11,4 @@ experiments section
    :maxdepth: 1
    :caption:
 
-   <vanilla_policy_grad>
+   Vanilla Policy Gradient <algorithms/vanilla_policy_grad>
